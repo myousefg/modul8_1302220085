@@ -1,0 +1,15 @@
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.AssemblyInfoInputs.cache
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.AssemblyInfo.cs
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.csproj.CoreCompileInputs.cache
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.sourcelink.json
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\bin\Debug\net8.0\modul8_1302220085.exe
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\bin\Debug\net8.0\modul8_1302220085.deps.json
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\bin\Debug\net8.0\modul8_1302220085.runtimeconfig.json
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\bin\Debug\net8.0\modul8_1302220085.dll
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\bin\Debug\net8.0\modul8_1302220085.pdb
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.dll
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\refint\modul8_1302220085.dll
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.pdb
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\modul8_1302220085.genruntimeconfig.cache
+C:\Users\myous\Documents\GitHub\tpmodul8_1302220085\modul8_1302220085\modul8_1302220085\obj\Debug\net8.0\ref\modul8_1302220085.dll
